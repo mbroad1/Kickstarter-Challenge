@@ -22,7 +22,7 @@
 ---
 ### Analysis of Outcomes Based on Goals
 ---
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/mbroad1/Kickstarter-Challenge/blob/main/Outcomes_vs_Goals.png)
 ---
 - The percentage of successful campaigns and the percentage of failed campaigns based on fundraising goals are exactly opposite of each other; this makes sense considering there are no canceled campaigns that contribute to the total projects and thus do not influence the percentage calculations featured in the graph.
 ---
