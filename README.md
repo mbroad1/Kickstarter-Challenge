@@ -14,7 +14,7 @@
 ---
 ### Analysis of Outcomes Based on Launch Date
 ---
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/mbroad1/Kickstarter-Challenge/blob/main/Theater_Outcomes_vs_Launch.png)
 ---
 - Looking at the Outcomes vs Launch Date - Theater Kickstarter graph, we can see that the most successful campaigns launch in May. Following May, in terms of success, are the months of June and July. Similarly, the greatest number of failed campaigns started in May (second greatest number is from October). However, the number of successful campaigns in May is double that of the number of failed campaigns in May, which leads me to believe that there are other factors that weigh more significantly in the failure than the launch date, but launch date is a significant factor in the success of a campaign.
 ---
